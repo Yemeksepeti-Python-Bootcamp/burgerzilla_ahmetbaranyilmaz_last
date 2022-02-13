@@ -189,7 +189,8 @@ Hamburger restoranlarından sipariş alan, siparişin durumunu görüntüleyebil
      "status_id':2
   }
   json objesiyle put isteği atılması gereklidir.
-  "status_id": Güncellenecek durumun id'si. 0: PREPARING, 1: ON THE WAY, 2: DELIVERED, 3: CANCELLED
+  "status_id": Güncellenecek durumun id'si. 
+  0: NEW, 1: PREPARING, 2: ON THE WAY, 3: DELIVERED, 4: RES_CANCELLED, 5: CUSTOMER_CANCELLED
   ``` 
   * #### Menüye ürün ekleme
      Restoranın menüsüne yeni bir hamburger ekleyebilmesi için   
