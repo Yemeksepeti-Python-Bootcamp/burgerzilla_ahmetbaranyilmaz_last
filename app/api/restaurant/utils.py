@@ -45,7 +45,7 @@ class UpdateOrderSchema(Schema):
     """
 
     status_id = fields.Integer(required=True, validate=[
-        OneOf([0, 1, 2, 3, 4, 5])
+        OneOf([0, 1, 2, 3, 4])
     ])
 
 
