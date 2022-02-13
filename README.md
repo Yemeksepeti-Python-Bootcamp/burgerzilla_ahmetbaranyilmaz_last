@@ -21,6 +21,9 @@ Hamburger restoranlarından sipariş alan, siparişin durumunu görüntüleyebil
     │   ├── service.py            # Gelen isteğe göre çalışan kodlar buraya yazılır
     │   └── utils.py              # Gelen verinin doğruluğunun kontrolleri yapılır
 
+### Database Yapısı
+<img alt="diagram.png" height="800" src="diagram.png" width="500"/>
+
 - ### Projenin Çalıştırılması
   * #### Docker ile çalıştırmak
   ```
