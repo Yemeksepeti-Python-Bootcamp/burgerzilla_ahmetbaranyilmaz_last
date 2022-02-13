@@ -246,4 +246,4 @@ Hamburger restoranlarından sipariş alan, siparişin durumunu görüntüleyebil
   isteği atılması gereklidir.
   ```
 
-Bu eğitimin düzenleyen Yemeksepeti ve Patika ekiplerine, eğitim süresi boyunce enerjisi hiç düşmeyen sevgili [İbrahim](https://github.com/ibrahimediz) hocamıza ve eğitimin sonuna kadar beraber geldiğim arkadaşlarım teşekkür ederim :)
+Bu eğitimi düzenleyen Yemeksepeti ve Patika ekiplerine, eğitim süresi boyunce enerjisi hiç düşmeyen sevgili [İbrahim](https://github.com/ibrahimediz) hocamıza ve eğitimin sonuna kadar beraber geldiğim arkadaşlarım teşekkür ederim :)
